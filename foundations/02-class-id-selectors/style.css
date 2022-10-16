@@ -1,0 +1,19 @@
+.primary {
+	background-color: #ffa7a7;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.larger,
+#secondary {
+	font-size: 24px;
+}
+
+#secondary {
+	background-color: #80ff80;
+	font-weight: bold;
+}
+
+#significant {
+	color: #0000ff;
+	font-size: 36px;
+}
